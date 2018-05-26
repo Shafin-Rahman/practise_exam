@@ -234,11 +234,7 @@ header {
     padding: 100px 0;
     background-color: #ffffff;
     font-family: 'brandon-grotesque', sans-serif;
-     width: 960px;
-    position: relative;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
+    width:1400px;
 }
 
 .service_wrapper {
@@ -246,6 +242,10 @@ header {
     min-height: 416px;
     margin: 0 auto;
     overflow: hidden;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
 }
 
 .single_service {
