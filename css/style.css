@@ -94,7 +94,7 @@ header {
 }
 
 .header_logo {
-    width: 0%;
+    width: 150px;
     float: left;
 
 }
@@ -245,7 +245,7 @@ header {
 }
 
 .service_wrapper {
-    width: 906px;
+    width: 890px;
     min-height: 416px;
     margin: 0 auto;
     overflow: hidden;
