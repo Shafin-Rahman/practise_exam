@@ -234,18 +234,20 @@ header {
     padding: 100px 0;
     background-color: #ffffff;
     font-family: 'brandon-grotesque', sans-serif;
-    width: 1400px;
-}
-
-.service_wrapper {
-    width: 906px;
-    min-height: 416px;
-    overflow: hidden;
+     width: 1400px;
     position: relative;
     left: 0;
     right: 0;
     margin: 0 auto;
 }
+
+.service_wrapper {
+    width: 906px;
+    min-height: 416px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
 
 .single_service {
     width: 390px;
