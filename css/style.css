@@ -50,6 +50,7 @@ body {
 .header_and_banner {
     position: relative;
     min-height: 620px;
+    width: 1400px;
     color: #ffffff;
 }
 
